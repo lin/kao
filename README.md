@@ -31,5 +31,5 @@
   [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lin/kao/blob/main/2004%E5%B9%B4%E7%BB%A5%E5%8C%96%E5%B8%82%E5%8C%BA%E4%B8%AD%E8%80%83%E5%88%86%E6%95%B0%E7%9A%84%E5%88%86%E5%B8%83.ipynb)
 - 2004年鹤岗市区应届Q-Q曲线的来源  
   [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lin/kao/blob/main/2004%E5%B9%B4%E9%B9%A4%E5%B2%97%E5%B8%82%E5%8C%BA%E5%BA%94%E5%B1%8AQ-Q%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%9D%A5%E6%BA%90.ipynb)
-- 2007届绥化一中高三一班和高三三班前十名中考成绩  
-  [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lin/kao/blob/main/2007%E5%B1%8A%E7%BB%A5%E5%8C%96%E4%B8%80%E4%B8%AD%E9%AB%98%E4%B8%89%E4%B8%80%E7%8F%AD%E5%92%8C%E9%AB%98%E4%B8%89%E4%B8%89%E7%8F%AD%E5%89%8D%E5%8D%81%E5%90%8D%E4%B8%AD%E8%80%83%E6%88%90%E7%BB%A9.ipynb)
+- 2007届绥化一中奥赛班前十名中考成绩  
+  [![在 Colab 中打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lin/kao/blob/main/2007%E5%B1%8A%E7%BB%A5%E5%8C%96%E4%B8%80%E4%B8%AD%E5%A5%A5%E8%B5%9B%E7%8F%AD%E5%89%8D%E5%8D%81%E5%90%8D%E4%B8%AD%E8%80%83%E6%88%90%E7%BB%A9.ipynb)
